@@ -1,22 +1,22 @@
 {
       "inventoryDetails" : [
             {
-                  "name" : "Rice",
+                  "name" : "Basmati",
                   "weight" : 30.25,
                   "pricePerKg" : 70.5,
-                  "type" : "Basmati"
+                  "type" : "Rice"
             },
             {
-                  "name" : "Pulse",
+                  "name" : "Moong Dal",
                   "weight" : 40.23,
                   "pricePerKg" : 30.29,
-                  "type" : "Dal"
+                  "type" : "Pulse"
             },
             {
-                  "name" : "Wheat",
+                  "name" : "Multi Grain",
                   "weight" : 28.5,
-                  "pricePerKg" : 35.33,
-                  "type" : "Durum"
+                  "pricePerKg" : 60.3,
+                  "type" : "Wheat"
             }
       ]
 }
